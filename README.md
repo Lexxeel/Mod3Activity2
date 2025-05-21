@@ -1,3 +1,7 @@
+run first:
+php artisan serve
+
+
 Open your web browser and navigate to the URLs, providing sample data for the parameters. For example:
 
 http://localhost:8000/customer/CUST001/JohnDoe/123ElmStreet
